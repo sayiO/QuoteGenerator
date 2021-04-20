@@ -1,0 +1,34 @@
+body {
+    background-color: #F4F3EE;
+}
+
+header {
+    padding: 2em;
+    background-color: #BCB8B1;
+    margin-top: 2em;
+    text-align: center;
+    color: azure;
+}
+
+.qoute {
+    font-size: 2em;
+}
+
+.btn-large {
+    margin: 0.5em;
+}
+
+.card {
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+.new-quote-button {
+    background-color: #8A817C;
+    border-color: beige;
+}
+
+#button:hover {
+    background-color: #463F3A;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Quote Generator</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="row flex-top justify-content-center">
+            <header class="border shadow">
+                <h1>Quote Generator</h1>
+            </header>
+        </div>
+        <div class="row flex-top justify-content-center">
+            <button id="button" class="btn-large new-quote-button" onClick=getQuote()>New Quote</button>
+        </div>
+        <div class="row justify-content-center">
+            <main class="card">
+                <p class="qoute card-body center" id="newQuoteSection"> </p>
+            </main>
+
+        </div>
+
+    </div>
+
+
+    <script src="app.js"></script>
+</body>
+
+</html>
