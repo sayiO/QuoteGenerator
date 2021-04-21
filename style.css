@@ -27,6 +27,8 @@ header:hover {
     text-align: center;
     width: auto;
     height: auto;
+    background-color: teal;
+    color: aliceblue;
 }
 
 .new-quote-button {
