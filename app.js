@@ -1,12 +1,12 @@
 var quotes = [
-    "i love beautiful women....",
-    "i love beautiful simbie....",
-    "i love beautiful tatenda....",
-    "i love beautiful Lisah....",
-    "i love beautiful rihamna....",
-    "i love beautiful wom....",
-    "i love beautiful wombbb....",
-    "i love beautiful Rutendo...."
+
+    ["Stay Hungry. Stay Foolish.", "Steve Jobs"],
+    ["Good Artists Copy, Great Artists Steal.", "Pablo Picasso"],
+    ["Argue with idiots, and you become an idiot.", "Paul Graham"],
+    ["Be yourself; everyone else is already taken.", "Oscar Wilde"],
+    ["Simplicity is the ultimate sophistication.", "Leonardo Da Vinci"]
+
+
 ]
 
 function getQuote() {
