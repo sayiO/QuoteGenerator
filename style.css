@@ -10,12 +10,17 @@ header {
     color: azure;
 }
 
+header:hover {
+    transform: scale(1.3);
+    color: #463F3A;
+}
+
 .qoute {
     font-size: 2em;
 }
 
 .btn-large {
-    margin: 0.5em;
+    margin: 2.5em;
 }
 
 .card {
